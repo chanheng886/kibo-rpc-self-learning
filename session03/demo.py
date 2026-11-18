@@ -31,3 +31,4 @@ while not is_steady:
     if setter_counter >= 4:
         is_steady = True
         print("[STABILIZED] Ready to trigger AR camera capture.")
+
