@@ -1,3 +1,4 @@
+#Begining & Friendly Codes
 class IntBallPose:
     def __init__(self, x, y, z, qx, qy, qz, qw):
         #Position
