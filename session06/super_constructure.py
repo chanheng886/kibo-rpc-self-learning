@@ -21,7 +21,6 @@ check = LeakCheckPoint("CH_01", 10.5, -2.8, 4.3, marker_id=14)
 print(f"Point {check.pt_id} at {check.pos} | Marker: {check.marker_id}")
 
 # Beginner Friendly Code
-
 class InspectionPoint2:
     def __init__(self, pt_id, x, y, z):
         self.id = pt_id

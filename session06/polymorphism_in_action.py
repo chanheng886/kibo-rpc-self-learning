@@ -15,4 +15,3 @@ mission_target = [CheckPointTarget(), CheckPointTarget(), GoalTarget()]
 
 for target in mission_target:
     target.process()
-    
